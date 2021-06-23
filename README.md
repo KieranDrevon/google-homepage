@@ -1,0 +1,1 @@
+This is my first official project! It is going to be the plain old google homepage. I feel excited to be on this journey, although sometimes it is already overwhelming. The future is looking bright! :)
